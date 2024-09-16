@@ -1,0 +1,2 @@
+com.AlexanderZaytsev.RNI18n
+style AppTheme
